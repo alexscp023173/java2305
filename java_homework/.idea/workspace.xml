@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61faa18b-2a8d-44ac-9504-3a480bf49c6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../java2305/src/lab06/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2305/src/lab06/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java2305/src/lab06/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/lab6/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/lab6/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/lab6/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/lab6/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2305/src/lab06/Task20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java2305/src/lab06/Task22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
